@@ -1,0 +1,52 @@
+.center{
+    margin-left:30%;
+    margin-right:20%;
+
+}
+.color-blue{
+    background-color: #3c8dbc;
+}
+
+.margin{
+    margin-top:0px;
+    margin-bottom:0px;
+    
+    
+}
+
+.color-blue-back{
+    color:#3c8dbc;
+}
+
+.color-blue-strong{
+    background:#367ea9
+}
+
+.color-blue-back-strong{
+    color:#367ea9
+}
+
+.color-black{
+    background:#222d32;
+    height:100vh;
+}
+.color-white{
+    color:white;
+}
+
+.alto{
+    height: 3.7em;
+    background:#367ea9;
+    width:100%;
+    font-size: 1.5vw;
+    
+}
+
+.alto-dash{
+    height: 3.7em;
+    background:#367ea9;
+    
+    font-size: 1.5vw;
+}
+
+
